@@ -1,0 +1,16 @@
+Date: Mon, 11 Sep 2023 16:03:45 GMT
+Server: Apache
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Referrer-Policy: strict-origin
+Last-Modified: Thu, 10 Jun 2021 03:53:47 GMT
+Etag: "13c3b-5c461569e322b-gzip"
+Accept-Ranges: bytes
+Cache-Control: max-age=5
+Expires: Mon, 11 Sep 2023 16:03:50 GMT
+Access-Control-Allow-Origin: *
+Content-Type: text/xml
+Vary: Accept-Encoding
+Content-Encoding: gzip

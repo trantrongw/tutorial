@@ -1,0 +1,15 @@
+Date: Mon, 11 Sep 2023 15:43:06 GMT
+Server: Apache
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Referrer-Policy: strict-origin
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, must-revalidate
+Pragma: no-cache
+Access-Control-Allow-Origin: *
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PHPSESSID=ff20fj38sj6eilj5j5494i1ec7; path=/
+Vary: Accept-Encoding
+Content-Encoding: gzip
