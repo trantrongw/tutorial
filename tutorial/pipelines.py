@@ -22,7 +22,7 @@ class MultiFilePipeline:
 
     def process_item(self, item, spider):
         start_url = item.get('start_url', 'unknown')
-        file_name = f"D:\DATA\{start_url.replace('://', '_').replace('/', '_')}.html"  # Changed to .txt for plain text
+        file_name = f"D:\DATA\crawl\{start_url.replace('://', '_').replace('/', '_')}.html"  # Changed to .txt for plain text
         
         with open(file_name, 'w', encoding='utf-8') as f:
             data_content = item.get('datacontent', '')
